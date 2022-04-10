@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderPOOP
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
