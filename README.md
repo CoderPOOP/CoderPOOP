@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Arjun Vijay Prakash
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning C and NextJs
