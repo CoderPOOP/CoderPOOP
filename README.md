@@ -5,4 +5,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coderpoop)
 
-My Portfolio - [click this](https://arjundev-portfolio.netliy.app)
+My Portfolio - [arjundev-portfolio.netlify.app](https://arjundev-portfolio.netlify.app/)
