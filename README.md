@@ -7,6 +7,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coderpoop)
 
-![Dev Card](https://api.daily.dev/devcards/f7b4ef3f68b640a68391079858ffd9c6.png?r=fin)
-
 My Portfolio - [arjundev-portfolio.netlify.app](https://arjundev-portfolio.netlify.app/)
