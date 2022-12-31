@@ -2,7 +2,7 @@
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning C and NextJs
+- 🌱 I’m currently learning Advanced Python and NextJs
 - Fun Fact - I am a 13 yo Kid
 
 ### 🛠 &nbsp; My Current Tech Stack
